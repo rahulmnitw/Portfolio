@@ -2,6 +2,7 @@
 This is the helper script for QPROFILE
 It can:
 1. Update the Module Id in metadata.json and push it to the git repo
+2.
 
 Invocation:
 > python3 helper.py --update <next_module_name>
